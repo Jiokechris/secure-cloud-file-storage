@@ -2,58 +2,8 @@
 
 
                         LedgerPoint Secure Cloud File Storage
-┌───────────────────┐
-│ Office Manager    │
-│ (ledgerpoint.sh)  │
-└─────────┬─────────┘
-          │ AWS CLI
-          │
-          ▼
-┌───────────────────────────────────┐
-│ AWS IAM                           │
-│ Least-Privilege IAM User & Policy │
-└─────────┬─────────────────────────┘
-          │ Authenticated Requests
-          │
-          ▼
-┌───────────────────────────────────┐
-│ Amazon S3 Document Bucket         │
-│ Private Bucket                    │
-│ Financial Statements              │
-└─────────┬─────────────────────────┘
-          │
-          │ Generate Pre-Signed URL
-          ▼
-┌───────────────────────────────────┐
-│ External Auditor                  │
-│ Temporary Access (No Login)       │
-└───────────────────────────────────┘
 
-
-                AWS API Activity
-                       │
-                       ▼
-┌───────────────────────────────────┐
-│ AWS CloudTrail                    │
-│ Logs AWS API Operations           │
-└─────────┬─────────────────────────┘
-          │
-          ▼
-┌───────────────────────────────────┐
-│ CloudTrail Log Bucket             │
-│ Private S3 Bucket                 │
-└───────────────────────────────────┘
-
-
-Local Machine
-┌───────────────────────────────────┐
-│ audit.log                         │
-│ Upload                            │
-│ Download                          │
-│ Share                             │
-│ Delete                            │
-│ Revoke                            │
-└───────────────────────────────────┘
+ ![diagram](screenshots/11-architectural-diagram.png)
 
 ## Solution Architecture
 
