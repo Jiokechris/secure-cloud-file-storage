@@ -1,0 +1,6 @@
+access-key.json
+cloudtrail-policy.json
+config.sh
+policy.json
+audit.log
+deployment-info.env

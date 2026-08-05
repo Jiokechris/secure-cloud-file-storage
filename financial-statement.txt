@@ -1,0 +1,47 @@
+Financial Accounting: Core Concepts and Principles
+Financial accounting is the structured process of recording, summarizing, and reporting a business's financial transactions to provide external stakeholders—such as investors, creditors, regulators, and tax authorities—with an accurate picture of its financial health and operational performance.
+
+1. Core Framework and Principles
+Financial accounting relies on Generally Accepted Accounting Principles (GAAP) or International Financial Reporting Standards (IFRS) to maintain consistency and comparability across organizations.
+
+Accrual Basis: Revenue is recognized when earned, and expenses are recognized when incurred, regardless of when cash changes hands.
+
+Double-Entry Bookkeeping: Every transaction affects at least two accounts (one debit, one credit), keeping the core balance sheet equation in balance.
+
+Matching Principle: Expenses must be matched directly with the revenues they helped generate during the same accounting period.
+
+2. The Core Accounting Equation
+Assets=Liabilities+Equity
+Assets: Economic resources owned or controlled by the enterprise (e.g., cash, accounts receivable, equipment).
+
+Liabilities: Financial obligations or debts owed to external parties (e.g., accounts payable, loans).
+
+Equity: The residual interest in the assets after deducting liabilities, representing the owners' stake.
+
+3. Key Financial Statements
+Statement	Primary Objective	Key Components
+Balance Sheet	Measures financial position at a specific point in time.	Assets, Liabilities, Shareholders' Equity
+Income Statement	Measures financial performance over a defined period.	Revenues, Cost of Goods Sold (COGS), Operating Expenses, Net Income
+Cash Flow Statement	Tracks cash inflows and outflows over a period.	Operating Activities, Investing Activities, Financing Activities
+Statement of Equity	Tracks changes in owner's equity over a period.	Common Stock, Retained Earnings, Dividends
+4. The Accounting Cycle
+[ Transactions ] ──> [ Journal Entries ] ──> [ General Ledger ]
+                                                     │
+[ Financial Statements ] <── [ Adjusted Trial Balance ] ◄──┘
+Identify and Analyze Transactions: Gathering receipts, invoices, and source documents.
+
+Journalize: Recording initial entries chronologically via debits and credits.
+
+Post to General Ledger: Transferring entries to individual account ledgers.
+
+Adjusting Entries: Accruing unbilled revenues/expenses and adjusting for prepayments or depreciation.
+
+Close the Books: Transferring temporary income/expense account balances into retained earnings at year-end.
+
+Where would you like to focus next?
+
+Walk through a worked double-entry ledger example
+
+Compare GAAP vs. IFRS differences
+
+Explain financial ratio analysis
