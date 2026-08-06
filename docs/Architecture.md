@@ -1,21 +1,21 @@
----
+## Solution Architecture
 
-## Architecture Diagram
+```text
+                        LedgerPoint Secure Cloud File Storage
 
----
 ┌───────────────────┐
 │ Office Manager    │
 │ (ledgerpoint.sh)  │
 └─────────┬─────────┘
-          │ AWS CLI
           │
+          │ AWS CLI
           ▼
 ┌───────────────────────────────────┐
 │ AWS IAM                           │
 │ Least-Privilege IAM User & Policy │
 └─────────┬─────────────────────────┘
-          │ Authenticated Requests
           │
+          │ Authenticated Requests
           ▼
 ┌───────────────────────────────────┐
 │ Amazon S3 Document Bucket         │
@@ -47,6 +47,7 @@
 
 
 Local Machine
+
 ┌───────────────────────────────────┐
 │ audit.log                         │
 │ Upload                            │
@@ -55,9 +56,7 @@ Local Machine
 │ Delete                            │
 │ Revoke                            │
 └───────────────────────────────────┘
----
----
-
+```
 
 ## Solution Architecture
 
