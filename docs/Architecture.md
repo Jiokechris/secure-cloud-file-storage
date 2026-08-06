@@ -1,6 +1,8 @@
+---
+
 ## Architecture Diagram
 
----                           LedgerPoint Secure Cloud File Storage
+---
 ┌───────────────────┐
 │ Office Manager    │
 │ (ledgerpoint.sh)  │
